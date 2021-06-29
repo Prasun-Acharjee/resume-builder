@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You would need Node JS and npm to run this project. [Node & npm](https://nodejs.org/en/)
 
 ## Available Scripts
 
